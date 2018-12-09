@@ -1,0 +1,54 @@
+PODS:
+  - AFNetworking/Reachability (3.2.1)
+  - BLBase (1.0.8):
+    - BLBase/BLCell (= 1.0.8)
+    - BLBase/BLModel (= 1.0.8)
+    - BLBase/BLNavigationController (= 1.0.8)
+    - BLBase/BLTabBarController (= 1.0.8)
+    - BLBase/BLTableView (= 1.0.8)
+    - BLBase/BLView (= 1.0.8)
+    - BLBase/BLViewController (= 1.0.8)
+  - BLBase/BLCell (1.0.8)
+  - BLBase/BLModel (1.0.8)
+  - BLBase/BLNavigationController (1.0.8)
+  - BLBase/BLTabBarController (1.0.8)
+  - BLBase/BLTableView (1.0.8):
+    - BLBase/BLTableView/Base (= 1.0.8)
+    - BLBase/BLTableView/EmptyDataSet (= 1.0.8)
+    - BLBase/BLTableView/Refresh (= 1.0.8)
+  - BLBase/BLTableView/Base (1.0.8)
+  - BLBase/BLTableView/EmptyDataSet (1.0.8):
+    - BLBase/BLTableView/Base
+    - DZNEmptyDataSet
+  - BLBase/BLTableView/Refresh (1.0.8):
+    - BLBase/BLTableView/Base
+    - MJRefresh
+  - BLBase/BLView (1.0.8)
+  - BLBase/BLViewController (1.0.8):
+    - Masonry
+  - BLCategory (1.0.6):
+    - YYKit
+  - DZNEmptyDataSet (1.8.1)
+  - Masonry (1.1.0)
+  - MJRefresh (3.1.15.7)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - AFNetworking/Reachability
+  - BLBase
+  - BLCategory
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  BLBase: 65760a6732ea2b123824aa7db2a55947daa50237
+  BLCategory: af70bd8cec9caccd3f0545d09dc8a183e601f73e
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 05b02a17e1124dc046994b5b42a8656628f17cd6
+
+COCOAPODS: 1.3.1
